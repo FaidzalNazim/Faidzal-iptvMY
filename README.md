@@ -2,7 +2,7 @@
 
 # CREDITS
 
-Special Thanks to [github.com/samleong123](https://github.com/samleong123)
+Special Thanks to [github.com/samleong123](https://github.com/samleong123) for .m3u playlist and [commons.wikimedia.org](https://commons.wikimedia.org/wiki/Main_Page) for logos...
 
 ## Legal
 

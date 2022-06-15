@@ -1,4 +1,5 @@
 # Faidzal_iptvMY
+Playlist URL [https://raw.githubusercontent.com/FaidzalNazim/Faidzal_iptvMY/main/iptvMY.m3u](https://raw.githubusercontent.com/FaidzalNazim/Faidzal_iptvMY/main/iptvMY.m3u)
 
 # CREDITS
 

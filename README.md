@@ -4,6 +4,7 @@ NOT FOR SALE
 Personal Use Only
 
 Playlist URL [https://raw.githubusercontent.com/FaidzalNazim/Faidzal_iptvMY/main/iptvMY.m3u](https://raw.githubusercontent.com/FaidzalNazim/Faidzal_iptvMY/main/iptvMY.m3u)
+EPG .xml URL [https://weareblahs.github.io/epg/rtmklik.xml](https://weareblahs.github.io/epg/rtmklik.xml)
 
 # CREDITS
 

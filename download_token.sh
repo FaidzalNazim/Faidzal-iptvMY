@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo -e "\e[1;31m [INFO] Create Folder \e[0m"
-mkdir m3u8
+mkdir m3u
 
 echo -e "\e[1;31m [INFO] Downloading TV3 \e[0m"
 TV3="https://api.samsam123.name.my/mediaprima_dailymotion/?channels=tv3&secret="$AUTH

@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501_300.png" group-title="News",Astro Awani HD
+#EXTINF:-1 group-title="News" tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501_300.png",Astro Awani HD
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
@@ -38,7 +38,7 @@ https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 #EXTINF:-1 group-title="MYTV" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",TV9 [MPEG-DASH]
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv9
 
-#EXTINF:-1 tvg-id="TV9.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="",TV9 SD
+#EXTINF:-1 group-title="MYTV" tvg-id="TV9.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png",TV9 SD
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
@@ -46,7 +46,7 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/T
 #EXTINF:-1 group-title="MYTV" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=8tv
 
-#EXTINF:-1 tvg-id="TVAlhijrah.my" tvg-name="Al-Hijrah" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/114_300.png" group-title="MYTV", TV Alhijrah (error Link)
+#EXTINF:-1 group-title="MYTV" tvg-id="TVAlhijrah.my" tvg-name="Al-Hijrah" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/114_300.png", TV Alhijrah (error Link)
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
@@ -66,5 +66,5 @@ https://rtmlive08tv.secureswiftcontent.com/rtmchannel/08-manifest.mpd
 
 # Sports
 
-#EXTINF:-1 tvg-id="Sport.my" tvg-name="Sport" tvg-country="MY" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmbNbKLfkfTPalocMLlNrX--kHkLkahnrm82wm8JqNcu2Uopz4tivJXXPd1QJZFNjkII&usqp=CAU" tvg-url="" group-title="Sports",Tennis HD
+#EXTINF:-1 group-title="Sports" tvg-id="Sport.my" tvg-name="Sport" tvg-country="MY" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmbNbKLfkfTPalocMLlNrX--kHkLkahnrm82wm8JqNcu2Uopz4tivJXXPd1QJZFNjkII&usqp=CAU" tvg-url="",Tennis HD
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8

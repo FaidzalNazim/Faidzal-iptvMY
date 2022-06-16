@@ -1,26 +1,26 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" url-tvg="https://weareblahs.github.io/epg/compressed/mytv.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 group-title="News" tvg-id="CHN" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501_300.png",Astro Awani HD
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="News" ch-number="RTMK04" tvg-id="RTMK04" tvg-chno="RTMK04" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Berita_RTM_v2.png",Berita RTM [MPEG-DASH]
+#EXTINF:-1 group-title="News" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Berita_RTM_v2.png",Berita RTM [MPEG-DASH]
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="MYTV" ch-number="RTMK01" tvg-id="RTMK01" tvg-chno="RTMK01" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Logo-TV1-May21-JPG.jpg",TV1 [MPEG-DASH]
+#EXTINF:-1 group-title="MYTV" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Logo-TV1-May21-JPG.jpg",TV1 [MPEG-DASH]
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="MYTV" ch-number="RTMK02" tvg-id="RTMK02" tvg-chno="RTMK02" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/78/TV2_RTMS.png",TV2 [MPEG-DASH]
+#EXTINF:-1 group-title="MYTV" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/78/TV2_RTMS.png",TV2 [MPEG-DASH]
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="MYTV" ch-number="RTMK03" tvg-id="RTMK03" tvg-chno="RTMK03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png",TV Okey [MPEG-DASH]
+#EXTINF:-1 group-title="MYTV" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png",TV Okey [MPEG-DASH]
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
@@ -30,7 +30,7 @@ https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="MYTV" ch-number="RTMK06" tvg-id="RTMK06" tvg-chno="RTMK06" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV6_Logo.jpg/640px-TV6_Logo.jpg",TV6 [MPEG-DASH]
+#EXTINF:-1 group-title="MYTV" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV6_Logo.jpg/640px-TV6_Logo.jpg",TV6 [MPEG-DASH]
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
@@ -38,7 +38,7 @@ https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 #EXTINF:-1 group-title="MYTV" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",TV9 [MPEG-DASH]
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv9
 
-#EXTINF:-1 group-title="MYTV" tvg-id="TV9.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png",TV9 SD
+#EXTINF:-1 group-title="MYTV" tvg-id="109" tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png",TV9 SD
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
@@ -46,12 +46,15 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/T
 #EXTINF:-1 group-title="MYTV" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV
 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=8tv
 
+#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="124" tvg-id="123" tvg-chno="123" tvg-logo="https://www.tvalhijrah.com/wp-content/uploads/2018/08/logotvalhijrah.jpg",TV AlHijrah
+https://video-sea1-1.xx.fbcdn.net/hvideo-frc-atn/_nc_cat-110/_nc_sr_t-16/v/r60OBxcxxmTPxZSH_t9Pr/_nc_ohc-BhTLNpFkOGEAX-T9wKZ/live-dash/dash-abr5/5498287300201479.mpd?ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AT-giEe98i8am4UNhTofWgTwLixqGIQEuKGLXQUQBxnxig&oe=62913B8C&dl=1
+
 #EXTINF:-1 group-title="MYTV" tvg-id="TVAlhijrah.my" tvg-name="Al-Hijrah" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/114_300.png", TV Alhijrah (error Link)
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 group-title="MYTV" ch-number="RTMK05" tvg-id="RTMK05" tvg-chno="RTMK05" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SUKAN_RTM.jpg/640px-SUKAN_RTM.jpg",Sukan RTM [MPEG-DASH]
+#EXTINF:-1 group-title="MYTV" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SUKAN_RTM.jpg/640px-SUKAN_RTM.jpg",Sukan RTM [MPEG-DASH]
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36

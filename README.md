@@ -1,5 +1,5 @@
 # Faidzal_iptvMY
-NOT FOR SALE
+## NOT FOR SALE
 
 Personal Use Only
 
@@ -7,7 +7,7 @@ Playlist URL [https://raw.githubusercontent.com/FaidzalNazim/Faidzal_iptvMY/main
 
 EPG .xml URL [https://weareblahs.github.io/epg/rtmklik.xml](https://weareblahs.github.io/epg/rtmklik.xml) (RTM channel only)
 
-# CREDITS
+## CREDITS
 
 Special Thanks to [samleong123 (Sam Sam)](https://github.com/samleong123) for .m3u playlist and [commons.wikimedia.org](https://commons.wikimedia.org/wiki/Main_Page) for logos... and thanks to [weareblahs (Tan Yu Xuan)](https://github.com/weareblahs) for great EPG.
 

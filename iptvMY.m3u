@@ -36,7 +36,7 @@ https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTVLCOPT:http-referer=https://www.dailymotion.com
 #EXTINF:-1 group-title="MYTV" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",TV9 [MPEG-DASH]
-https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv9
+https://raw.githubusercontent.com/FaidzalNazim/Faidzal-iptvMY/main/m3u8/TV9.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 group-title="MYTV" tvg-id="109" tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png",TV9 SD
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/T
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTVLCOPT:http-referer=https://www.dailymotion.com
 #EXTINF:-1 group-title="MYTV" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV
-https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=8tv
+https://raw.githubusercontent.com/FaidzalNazim/Faidzal-iptvMY/main/m3u8/8TV.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="124" tvg-id="123" tvg-chno="123" tvg-logo="https://www.tvalhijrah.com/wp-content/uploads/2018/08/logotvalhijrah.jpg",TV AlHijrah
 https://video-sea1-1.xx.fbcdn.net/hvideo-frc-atn/_nc_cat-110/_nc_sr_t-16/v/r60OBxcxxmTPxZSH_t9Pr/_nc_ohc-BhTLNpFkOGEAX-T9wKZ/live-dash/dash-abr5/5498287300201479.mpd?ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AT-giEe98i8am4UNhTofWgTwLixqGIQEuKGLXQUQBxnxig&oe=62913B8C&dl=1

@@ -75,6 +75,24 @@ https://rtmlive04tv.secureswiftcontent.com/rtmchannel/04-manifest.mpd
 #EXTINF:-1 group-title="MYTV" ch-number="RTMK08" tvg-id="RTMK08" tvg-chno="RTMK08" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",Dewan Negara [MPEG-DASH]
 https://rtmlive08tv.secureswiftcontent.com/rtmchannel/08-manifest.mpd
 
-# kids
+# Religion
+
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" status="online",Al Quran Al Kareem TV (Mecca) (1080p) [Not 24/7]
+https://edge.taghtia.com/sa/7.m3u8
+
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" status="online",Al Quran Al Kareem TV (Mecca) (720p)
+http://5b18be6964c2f.streamlock.net:1935/live/_definst_/quran/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" status="online",Al Quran Al Kareem TV (Mecca) (720p) [Not 24/7]
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" status="online",Al Sunnah Al Nabawiyah TV (Medina) (1080p) [Not 24/7]
+https://edge.taghtia.com/sa/6.m3u8
+
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" status="online",Al Sunnah Al Nabawiyah TV (Medina) (720p)
+http://5b18be6964c2f.streamlock.net:1935/live/_definst_/sunnah/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" status="online",Al Sunnah Al Nabawiyah TV (Medina) (720p) [Not 24/7]
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 
 # Sports

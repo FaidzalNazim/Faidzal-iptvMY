@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" url-tvg="https://weareblahs.github.io/epg/compressed/mytv.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 tvg-id="000" tvg-name="INTRO"  group-title="NO OPEN",-----COMPILE BY FaidzalNazim-----
-www.googel.com
+#EXTINF:-1 tvg-id="000" tvg-name="INTRO"  group-title="NO OPEN" tvg-logo="https://avatars.githubusercontent.com/u/107225940?s=400&u=017cb40c7e2e72f2ed39d10a31bc58323cd5b981&v=4",-----COMPILE BY FaidzalNazim-----
+https://raw.githubusercontent.com/FaidzalNazim/Faidzal_iptvMY/main/iptvMY.m3u
 
 #EXTINF:-1 group-title="News" ch-number="501" tvg-id="501" tvg-chno="501" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501_300.png",Astro Awani HD
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
